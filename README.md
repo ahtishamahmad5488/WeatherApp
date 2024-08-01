@@ -1,3 +1,7 @@
+This Weather App provides users with real-time weather updates and forecasts for any location worldwide. Built using React Native, it leverages a weather API to fetch data, including temperature, humidity, wind speed, and more. The app features a clean and intuitive user interface, allowing users to easily search for cities and view detailed weather information. Additionally, the app includes a custom Loader component to display a loading indicator while fetching data, ensuring a smooth user experience. This project demonstrates the integration of API data fetching, state management, and UI design in a mobile application.
+
+----------
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
